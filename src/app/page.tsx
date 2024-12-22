@@ -48,43 +48,6 @@ export default function Page() {
         </div>
       </div>
     </>
-    // <div className='p-4 flex flex-col gap-y-4'>
-    //   <div className='w-[1000px] m-auto flex justify-evenly items-center bg-red-300'>
-    //     <div className=''>Mumbai</div>
-    //     <div>Dubai</div>
-    //   </div>
-    //   <div className='grid grid-cols-2 gap-2 h-[500px]'>
-    //     <div className='bg-yellow-100 h-full'>
-    //       {/* <MapContainer center={center} zoom={ZOOM_LEVEL} ref={mapRef}>
-    //         <TileLayer
-    //           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    //           url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-    //         />
-
-    //         <Marker
-    //           position={[19.0760, 72.8777]}
-    //         ></Marker>
-    //       </MapContainer> */}
-    //       <img
-    //         className='h-[200px] mx-auto'
-    //         src="https://images.unsplash.com/photo-1567965606933-c46e07393d91?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-    //     </div>
-    //     <div className='bg-green-100 h-full'>
-    //       {/* <MapContainer center={center} zoom={ZOOM_LEVEL} ref={mapRef}>
-    //         <TileLayer
-    //           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    //           url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-    //         />
-
-    //         <Marker
-    //           position={[28.7041, 77.1025]}
-    //         ></Marker>
-    //       </MapContainer> */}
-    //       <img
-    //         className='h-[200px] mx-auto' 
-    //         src="https://images.unsplash.com/photo-1583355261087-0d6c861a946a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-    //     </div>
-    //   </div>
-    // </div>
+    
   )
 }
